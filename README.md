@@ -2,9 +2,17 @@
 Pokedex project in order to practice Vue.js and API Consumption
 
 ## What I learned by doing this project
-1. Method Create
-2. HTTP Request in Vue using Axios
+1. Method Create.
+2. HTTP Request in Vue using Axios.
+3. Components.
+4. Computed.
+5. API Consumption.
 
+
+### PokeAPI
+```
+https://pokeapi.co/
+```
 
 ### Project setup
 ```
